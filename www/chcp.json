@@ -1,0 +1,11 @@
+{
+  "name": "kk",
+  "s3bucket": "dasd",
+  "s3prefix": "",
+  "s3region": "us-east-1",
+  "ios_identifier": "das",
+  "android_identifier": "dasd",
+  "update": "now",
+  "content_url": "https://2715d3da.ngrok.io",
+  "release": "2017.12.14-01.49.49"
+}

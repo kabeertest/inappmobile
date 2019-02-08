@@ -1,0 +1,10 @@
+{
+  "name": "kk",
+  "s3bucket": "dasd",
+  "s3prefix": "",
+  "s3region": "us-east-1",
+  "ios_identifier": "das",
+  "android_identifier": "dasd",
+  "update": "resume",
+  "content_url": "https://s3.amazonaws.com/dasd"
+}
